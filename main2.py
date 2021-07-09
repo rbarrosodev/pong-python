@@ -25,8 +25,6 @@ paddleD.y = janela.height / 2 - ball.height / 2
 player_1 = 0
 player_2 = 0
 
-num = random.randint(0, 1)
-
 velx = 270
 vely = 270
 velPadE = 300
